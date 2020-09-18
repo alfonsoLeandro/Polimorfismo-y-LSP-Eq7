@@ -6,6 +6,7 @@ namespace LSPLibrary
 {
     public class TrelloCardCreator
     {
+        // No especifica tipos de la clase
         private ITrelloFactory factory;
 
         public TrelloCardCreator()
